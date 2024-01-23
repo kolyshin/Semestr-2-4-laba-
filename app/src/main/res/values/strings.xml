@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_setting">Setting</string>
+    <string name="action1">Выбрать розовый цвет</string>
+    <string name="action2">Выбрать красный цвет</string>
+    <string name="action3">Выбрать желтый цвет</string>
+</resources>
